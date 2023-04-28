@@ -9,4 +9,4 @@ def replaceUrl(new_url):
     with open(file,"w",encoding="utf-8") as f:
         f.write(file_data)
 
-updateFile("--[hello world]--")
+replaceUrl("--[hello world]--")
