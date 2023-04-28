@@ -1,5 +1,5 @@
 def replaceUrl(new_url):
-    file = "README.md"
+    file = './README.md'
     file_data = ""
     with open(file, "r", encoding="utf-8") as f:
         for line in f:
