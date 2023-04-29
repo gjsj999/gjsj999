@@ -1,2 +1,1 @@
 //被墙的域名自动被放在下面
-https://www.google.com
