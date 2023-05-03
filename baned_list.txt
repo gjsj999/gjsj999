@@ -1,2 +1,3 @@
 //被墙的域名自动被放在下面
 https://ganjing999.b-cdn.net
+https://gj.776898.xyz
